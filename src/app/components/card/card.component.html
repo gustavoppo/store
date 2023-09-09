@@ -1,0 +1,10 @@
+<a href="#" class="card-container">
+  <img class="card-img" [src]="[gameCover]" alt="" />
+  <app-card-label  *ngIf="gameLabel !=='none'" gameLabel="{{ gameLabel }}"></app-card-label>
+  <app-card-pricing
+    gameType="{{ gameType }}"
+    gamePrice="{{ gamePrice }}"
+    gameTitle="{{ gameTitle }}"
+    console="{{ console }}"
+  ></app-card-pricing>
+</a>
