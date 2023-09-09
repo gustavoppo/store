@@ -14,6 +14,6 @@ pela plataforma
 
 ## Sobre o projeto
 
-Este projeto é baseado na PSN Store, apresentando uma lista de jogos, onde dado enfasê na criação de componentes inteligentes.
+Este projeto é baseado na PSN Store e apresenta uma lista de jogos, com ênfase na criação de componentes inteligentes.
 
 ![Tela desenvolvida no curso, com jogos Battlefield 1, Battlefield 4, Battlefield 5, Battlefield bad company 2, Battlefield hardline e Assassin's creed](image.png)
